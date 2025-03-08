@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body{
+  color: #1f1e1e;
+  margin: 1 1 1 1;
+  background-color: #d7dbdf;
+  height: 100%;
+  width: 100%;
+}
+
+
